@@ -1,3 +1,4 @@
-1:Hello git
+1:Hello git git is great
 2:add a new line
-3:this is shit
+hahah
+3:this is fucking shit
